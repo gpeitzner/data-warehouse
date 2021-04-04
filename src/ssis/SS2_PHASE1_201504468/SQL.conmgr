@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="SQL"
+  DTS:DTSID="{F024322A-EC75-45BC-88EA-BFFD7CC8CAA1}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=172.22.204.191;User ID=SA;Initial Catalog=seminariodos201504468;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZKjPfo9jJ0+xpUW/k6K46QAAAAACAAAAAAAQZgAAAAEAACAAAABiaIicZUVrHzfpzMw2AsCuQB7kshpe/gNG9WQ4kyBaiQAAAAAOgAAAAAIAACAAAACES6+hlOZHeg2r1BqM0Vs2AEyMSOvm72zNzP5BB+f8jJAAAADgh3EjXaDckbCAXi9En42VuRHAP+qSNwEfsdCL30Xnu2j9D3ln7jQ1iTAKI2/VbjB2CDZ+iM/JMo3v8Fj9tM6z7+MTOsss40WaNk2tL6MrUqJFDl3G50Ugq1vu0tYztQX2EaMqOPNCbMSWRgNfouwoeW+MhzHX35T5v7IyvlmIpAi7RCHILaGC4mam/C2pxJpAAAAAkwc0Rc4cZ8KwIcFvHNbntBm2CHmRPKQfsHeqJ6XTdMy6HUQbl8difyzKBmxvat+EL0JnR4Jzef+vvmVO2Pzk4w==</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
